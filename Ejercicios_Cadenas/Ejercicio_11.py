@@ -7,3 +7,4 @@ total = cantidad*precio
 
 print(f"{nom}: {cantidad} unidades x {precio:9.3f} = {total:11.2f}")
 
+#eso esta raro 
